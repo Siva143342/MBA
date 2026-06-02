@@ -1,0 +1,2 @@
+# MBA
+Strateguc management
